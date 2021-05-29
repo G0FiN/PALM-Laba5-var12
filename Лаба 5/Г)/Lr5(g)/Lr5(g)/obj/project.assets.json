@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vodpb\\source\\repos\\Lr5(g)\\Lr5(g)\\Lr5(g).csproj",
+      "projectUniqueName": "C:\\Users\\vodpb\\OneDrive\\Рабочий стол\\Лр 5\\Г)\\Lr5(g)\\Lr5(g)\\Lr5(g).csproj",
       "projectName": "Lr5(g)",
-      "projectPath": "C:\\Users\\vodpb\\source\\repos\\Lr5(g)\\Lr5(g)\\Lr5(g).csproj",
+      "projectPath": "C:\\Users\\vodpb\\OneDrive\\Рабочий стол\\Лр 5\\Г)\\Lr5(g)\\Lr5(g)\\Lr5(g).csproj",
       "packagesPath": "C:\\Users\\vodpb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vodpb\\source\\repos\\Lr5(g)\\Lr5(g)\\obj\\",
+      "outputPath": "C:\\Users\\vodpb\\OneDrive\\Рабочий стол\\Лр 5\\Г)\\Lr5(g)\\Lr5(g)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

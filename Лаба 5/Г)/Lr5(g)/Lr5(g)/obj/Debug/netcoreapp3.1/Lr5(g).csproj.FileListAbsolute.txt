@@ -14,3 +14,19 @@ C:\Users\vodpb\source\repos\Lr5(g)\Lr5(g)\obj\Debug\netcoreapp3.1\Lr5(g).dll
 C:\Users\vodpb\source\repos\Lr5(g)\Lr5(g)\obj\Debug\netcoreapp3.1\Lr5(g).pdb
 C:\Users\vodpb\source\repos\Lr5(g)\Lr5(g)\obj\Debug\netcoreapp3.1\Lr5(g).genruntimeconfig.cache
 C:\Users\vodpb\source\repos\Lr5(g)\Lr5(g)\obj\Debug\netcoreapp3.1\Lr5_g_.Properties.Resources.resources
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\Г)\Lr5(g)\Lr5(g)\bin\Debug\netcoreapp3.1\Lr5(g).exe
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\Г)\Lr5(g)\Lr5(g)\bin\Debug\netcoreapp3.1\Lr5(g).deps.json
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\Г)\Lr5(g)\Lr5(g)\bin\Debug\netcoreapp3.1\Lr5(g).runtimeconfig.json
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\Г)\Lr5(g)\Lr5(g)\bin\Debug\netcoreapp3.1\Lr5(g).runtimeconfig.dev.json
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\Г)\Lr5(g)\Lr5(g)\bin\Debug\netcoreapp3.1\Lr5(g).dll
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\Г)\Lr5(g)\Lr5(g)\bin\Debug\netcoreapp3.1\Lr5(g).pdb
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\Г)\Lr5(g)\Lr5(g)\obj\Debug\netcoreapp3.1\Lr5(g).csproj.AssemblyReference.cache
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\Г)\Lr5(g)\Lr5(g)\obj\Debug\netcoreapp3.1\Lr5_g_.Form1.resources
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\Г)\Lr5(g)\Lr5(g)\obj\Debug\netcoreapp3.1\Lr5_g_.Properties.Resources.resources
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\Г)\Lr5(g)\Lr5(g)\obj\Debug\netcoreapp3.1\Lr5(g).csproj.GenerateResource.cache
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\Г)\Lr5(g)\Lr5(g)\obj\Debug\netcoreapp3.1\Lr5(g).AssemblyInfoInputs.cache
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\Г)\Lr5(g)\Lr5(g)\obj\Debug\netcoreapp3.1\Lr5(g).AssemblyInfo.cs
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\Г)\Lr5(g)\Lr5(g)\obj\Debug\netcoreapp3.1\Lr5(g).csproj.CoreCompileInputs.cache
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\Г)\Lr5(g)\Lr5(g)\obj\Debug\netcoreapp3.1\Lr5(g).dll
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\Г)\Lr5(g)\Lr5(g)\obj\Debug\netcoreapp3.1\Lr5(g).pdb
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\Г)\Lr5(g)\Lr5(g)\obj\Debug\netcoreapp3.1\Lr5(g).genruntimeconfig.cache

@@ -51,7 +51,7 @@ namespace Lr5_g_
             // picUFO
             // 
             this.picUFO.Image = global::Lr5_g_.Properties.Resources.ufo1;
-            this.picUFO.Location = new System.Drawing.Point(1427, 379);
+            this.picUFO.Location = new System.Drawing.Point(1407, 550);
             this.picUFO.Name = "picUFO";
             this.picUFO.Size = new System.Drawing.Size(136, 99);
             this.picUFO.TabIndex = 1;
