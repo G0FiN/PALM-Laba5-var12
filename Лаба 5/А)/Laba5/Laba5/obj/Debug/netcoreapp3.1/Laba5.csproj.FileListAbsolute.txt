@@ -1,0 +1,30 @@
+C:\Users\vodpb\source\repos\Laba5\Laba5\bin\Debug\netcoreapp3.1\Laba5.exe
+C:\Users\vodpb\source\repos\Laba5\Laba5\bin\Debug\netcoreapp3.1\Laba5.deps.json
+C:\Users\vodpb\source\repos\Laba5\Laba5\bin\Debug\netcoreapp3.1\Laba5.runtimeconfig.json
+C:\Users\vodpb\source\repos\Laba5\Laba5\bin\Debug\netcoreapp3.1\Laba5.runtimeconfig.dev.json
+C:\Users\vodpb\source\repos\Laba5\Laba5\bin\Debug\netcoreapp3.1\Laba5.dll
+C:\Users\vodpb\source\repos\Laba5\Laba5\bin\Debug\netcoreapp3.1\Laba5.pdb
+C:\Users\vodpb\source\repos\Laba5\Laba5\obj\Debug\netcoreapp3.1\Laba5.csprojAssemblyReference.cache
+C:\Users\vodpb\source\repos\Laba5\Laba5\obj\Debug\netcoreapp3.1\Laba5.Form1.resources
+C:\Users\vodpb\source\repos\Laba5\Laba5\obj\Debug\netcoreapp3.1\Laba5.csproj.GenerateResource.cache
+C:\Users\vodpb\source\repos\Laba5\Laba5\obj\Debug\netcoreapp3.1\Laba5.AssemblyInfoInputs.cache
+C:\Users\vodpb\source\repos\Laba5\Laba5\obj\Debug\netcoreapp3.1\Laba5.AssemblyInfo.cs
+C:\Users\vodpb\source\repos\Laba5\Laba5\obj\Debug\netcoreapp3.1\Laba5.csproj.CoreCompileInputs.cache
+C:\Users\vodpb\source\repos\Laba5\Laba5\obj\Debug\netcoreapp3.1\Laba5.dll
+C:\Users\vodpb\source\repos\Laba5\Laba5\obj\Debug\netcoreapp3.1\Laba5.pdb
+C:\Users\vodpb\source\repos\Laba5\Laba5\obj\Debug\netcoreapp3.1\Laba5.genruntimeconfig.cache
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\А)\Laba5\Laba5\bin\Debug\netcoreapp3.1\Laba5.exe
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\А)\Laba5\Laba5\bin\Debug\netcoreapp3.1\Laba5.deps.json
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\А)\Laba5\Laba5\bin\Debug\netcoreapp3.1\Laba5.runtimeconfig.json
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\А)\Laba5\Laba5\bin\Debug\netcoreapp3.1\Laba5.runtimeconfig.dev.json
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\А)\Laba5\Laba5\bin\Debug\netcoreapp3.1\Laba5.dll
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\А)\Laba5\Laba5\bin\Debug\netcoreapp3.1\Laba5.pdb
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\А)\Laba5\Laba5\obj\Debug\netcoreapp3.1\Laba5.csproj.AssemblyReference.cache
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\А)\Laba5\Laba5\obj\Debug\netcoreapp3.1\Laba5.Form1.resources
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\А)\Laba5\Laba5\obj\Debug\netcoreapp3.1\Laba5.csproj.GenerateResource.cache
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\А)\Laba5\Laba5\obj\Debug\netcoreapp3.1\Laba5.AssemblyInfoInputs.cache
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\А)\Laba5\Laba5\obj\Debug\netcoreapp3.1\Laba5.AssemblyInfo.cs
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\А)\Laba5\Laba5\obj\Debug\netcoreapp3.1\Laba5.csproj.CoreCompileInputs.cache
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\А)\Laba5\Laba5\obj\Debug\netcoreapp3.1\Laba5.dll
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\А)\Laba5\Laba5\obj\Debug\netcoreapp3.1\Laba5.pdb
+C:\Users\vodpb\OneDrive\Рабочий стол\Лр 5\А)\Laba5\Laba5\obj\Debug\netcoreapp3.1\Laba5.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\vodpb\source\repos\Lr5(v)\Lr5(v)\bin\Debug\netcoreapp3.1\Lr5(v).exe
+C:\Users\vodpb\source\repos\Lr5(v)\Lr5(v)\bin\Debug\netcoreapp3.1\Lr5(v).deps.json
+C:\Users\vodpb\source\repos\Lr5(v)\Lr5(v)\bin\Debug\netcoreapp3.1\Lr5(v).runtimeconfig.json
+C:\Users\vodpb\source\repos\Lr5(v)\Lr5(v)\bin\Debug\netcoreapp3.1\Lr5(v).runtimeconfig.dev.json
+C:\Users\vodpb\source\repos\Lr5(v)\Lr5(v)\bin\Debug\netcoreapp3.1\Lr5(v).dll
+C:\Users\vodpb\source\repos\Lr5(v)\Lr5(v)\bin\Debug\netcoreapp3.1\Lr5(v).pdb
+C:\Users\vodpb\source\repos\Lr5(v)\Lr5(v)\obj\Debug\netcoreapp3.1\Lr5(v).csproj.AssemblyReference.cache
+C:\Users\vodpb\source\repos\Lr5(v)\Lr5(v)\obj\Debug\netcoreapp3.1\Lr5_v_.Form1.resources
+C:\Users\vodpb\source\repos\Lr5(v)\Lr5(v)\obj\Debug\netcoreapp3.1\Lr5(v).csproj.GenerateResource.cache
+C:\Users\vodpb\source\repos\Lr5(v)\Lr5(v)\obj\Debug\netcoreapp3.1\Lr5(v).AssemblyInfoInputs.cache
+C:\Users\vodpb\source\repos\Lr5(v)\Lr5(v)\obj\Debug\netcoreapp3.1\Lr5(v).AssemblyInfo.cs
+C:\Users\vodpb\source\repos\Lr5(v)\Lr5(v)\obj\Debug\netcoreapp3.1\Lr5(v).csproj.CoreCompileInputs.cache
+C:\Users\vodpb\source\repos\Lr5(v)\Lr5(v)\obj\Debug\netcoreapp3.1\Lr5(v).dll
+C:\Users\vodpb\source\repos\Lr5(v)\Lr5(v)\obj\Debug\netcoreapp3.1\Lr5(v).pdb
+C:\Users\vodpb\source\repos\Lr5(v)\Lr5(v)\obj\Debug\netcoreapp3.1\Lr5(v).genruntimeconfig.cache
